@@ -59,6 +59,16 @@ The dataset used in this project is publicly available on Kaggle:
 
 ---
 
+## 🤖 Model Used
+
+- Isolation Forest (Anomaly Detection)
+- Local Outlier Factor (Outlier Detection)
+- XGBoost Classifier (Supervised Learning)
+
+XGBoost provided the best performance among all models.
+
+---
+
 ## 📈 Results
 
 The model achieved strong performance in detecting fraudulent transactions.
